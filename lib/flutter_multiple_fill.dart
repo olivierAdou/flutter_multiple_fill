@@ -28,7 +28,7 @@ class FlutterMultipleFill extends StatefulWidget {
       this.chipColor = Colors.blue,
       this.chipLabelPadding = 1,
       this.inputDecoration = const InputDecoration(
-        hintText: "Add email",
+        hintText: "Add email or other text",
         filled: false,
         hintStyle: TextStyle(fontSize: 12),
       ),

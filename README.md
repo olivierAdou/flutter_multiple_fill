@@ -71,3 +71,20 @@ Now in your Dart code, you can use like that:
   }
 ```
 
+# Parameters used 
+Read the contents of the table below to learn more about the parameters used in this plugin.
+
+| Parameters                | Type                       | Description                                                   |
+| ------------------------- | ---------------------------|---------------------------------------------------------------|
+| circleAvatarTextStyle     | TextStyle                  | Add TextStyle to circle avatar                                |
+| circleAvatarColor         | Color                      | Add color to circle avatar                                    |
+| chipTextStyle             | TextStyle                  | Add TextStyle to chip                                         |
+| chipLabelPadding          | double                     | Add padding to chip label                                     |
+| chipColor                 | color                      | Add color to chip                                             |
+| inputDecoration           | InputDecoration            | Add decoration to input fill                                  |
+| emailPattern              | bool                       | Set to true when you want verifiy email by pattern            |
+| boxDecoration             | Decoration                 | Add decoration to a contain box                               |
+| boxPadding                | double                     | Add padding to all side of box                                |
+| keyboardType              | TextInputType              | Set a keyboardtype ex : TextInputType.emailAddress            |
+| onfillCallback            | Function(List)             | Liten this event to get values filled as list                 |
+

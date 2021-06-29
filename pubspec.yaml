@@ -34,6 +34,9 @@ flutter:
         pluginClass: FlutterMultipleFillPlugin
       windows:
         pluginClass: FlutterMultipleFillPlugin
+      web:
+        pluginClass: FlutterMultipleFillPlugin
+        fileName: flutter_multiple_fill_web.dart
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:

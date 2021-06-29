@@ -5,7 +5,3 @@
 .pub/
 
 build/
-lib/
-android/
-ios/
-windows/

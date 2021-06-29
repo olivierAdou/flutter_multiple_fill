@@ -2,7 +2,7 @@
 
 A new flutter plugin project for multiple fill.
 
-<img src="./example/assets/fluttermultiplefill.png" alt="Screenshot"/>
+<img src="https://raw.githubusercontent.com/olivierAdou/flutter_multiple_fill/main/example/assets/fluttermultiplefill.png" alt="Screenshot"/>
 
 ## Installing flutter_multiple_fill
 It so simple to use it !!

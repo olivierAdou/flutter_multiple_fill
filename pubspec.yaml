@@ -1,7 +1,7 @@
 name: flutter_multiple_fill
 description: A new flutter plugin project for multiple fill.
 version: 1.0.1
-homepage:
+homepage: https://github.com/olivierAdou/flutter_multiple_fill
 
 environment:
   sdk: ">=2.12.0 <3.0.0"

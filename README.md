@@ -11,7 +11,7 @@ First, add flutter_multiple_fill as a dependency in your pubspec.yaml file.
 
 ```yaml
 dependencies:
-  flutter_multiple_fill: ^1.0.1
+  flutter_multiple_fill: ^1.0.2
 ```
 
 And after it run this command.

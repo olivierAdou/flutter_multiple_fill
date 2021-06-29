@@ -47,7 +47,7 @@ class _MyAppState extends State<MyApp> {
                   filled: false,
                   hintStyle: TextStyle(fontSize: 12),
                 ),
-                emailPattern: false,
+                emailPattern: true,
                 boxDecoration: const BoxDecoration(color: Colors.transparent),
                 boxPadding: 0,
                 keyboardType: TextInputType.emailAddress,

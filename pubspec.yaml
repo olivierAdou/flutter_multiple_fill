@@ -1,6 +1,6 @@
 name: flutter_multiple_fill
 description: A new flutter plugin project for multiple fill.
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/olivierAdou/flutter_multiple_fill
 
 environment:
@@ -9,6 +9,8 @@ environment:
 
 dependencies:
   flutter:
+    sdk: flutter
+  flutter_web_plugins:
     sdk: flutter
 
 dev_dependencies:
@@ -35,7 +37,7 @@ flutter:
       windows:
         pluginClass: FlutterMultipleFillPlugin
       web:
-        pluginClass: FlutterMultipleFillPlugin
+        pluginClass: FlutterMultipleFillWeb
         fileName: flutter_multiple_fill_web.dart
 
   # To add assets to your plugin package, add an assets section, like this:
